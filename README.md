@@ -1,2 +1,3 @@
 # system-rezerwacji-wizyt
-SRW-13 test integration
+Backend implementation – SRW-13
+Added reservation controller
